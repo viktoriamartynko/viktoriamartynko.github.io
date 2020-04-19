@@ -78,6 +78,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://viktoriamartynko.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://viktoriamartynko.github.io/es/blog/"
                 />
@@ -118,6 +123,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://viktoriamartynko.github.io/tags/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://viktoriamartynko.github.io/es/tags/ipsum/"
                 />
@@ -153,6 +163,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://viktoriamartynko.github.io/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://viktoriamartynko.github.io/es/tags/words/"
                 />
@@ -165,6 +180,11 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://viktoriamartynko.github.io/de/tags/code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://viktoriamartynko.github.io/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -183,6 +203,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://viktoriamartynko.github.io/blog/startup-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://viktoriamartynko.github.io/es/blog/startup-ipsum/"
                 />
@@ -195,6 +220,11 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://viktoriamartynko.github.io/de/tags/coffee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://viktoriamartynko.github.io/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -213,6 +243,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://viktoriamartynko.github.io/blog/coffee-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://viktoriamartynko.github.io/es/blog/coffee-ipsum/"
                 />
@@ -225,6 +260,11 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://viktoriamartynko.github.io/de/tags/images/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://viktoriamartynko.github.io/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
