@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>https://viktoriamartynko.github.io/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate>
+    
+	<atom:link href="https://viktoriamartynko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photography</title>
+      <link>https://viktoriamartynko.github.io/projects/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viktoriamartynko.github.io/projects/photography/</guid>
+      <description>Sometimes I take pictures This project is about the pictures I take. Sometimes, they are pictures of Getz.</description>
+    </item>
+    
+    <item>
+      <title>Run Lab</title>
+      <link>https://viktoriamartynko.github.io/projects/run-lab-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viktoriamartynko.github.io/projects/run-lab-project/</guid>
+      <description>Run Lab is a laboratory of running that offers live, interactive group workouts guaranteed to keep you fit. They help you stay accountable to running marathons, offering feedback from your coach and workouts available to you from anywhere in the world! I worked closely with the RunLab team, creating brand and communication strategy, a winning customer acquisition strategy for their business!</description>
+    </item>
+    
+    <item>
+      <title>ProVitos &amp; BioVitos</title>
+      <link>https://viktoriamartynko.github.io/projects/provitosbiovitos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viktoriamartynko.github.io/projects/provitosbiovitos/</guid>
+      <description>Squarespace Website Design, Branding, Creative Writing
+ProVitos and BioVitos work to answer the questions that CEOs, founders, and business leaders are too busy to answer themselves. I worked to develop branding, fill with creative writing and fresh, inviting website for them. Take a look below for the full transformation and make sure to check out to view the full site!</description>
+    </item>
+    
+    <item>
+      <title>Bazilik School Projects</title>
+      <link>https://viktoriamartynko.github.io/projects/bazilik-school-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viktoriamartynko.github.io/projects/bazilik-school-projects/</guid>
+      <description>Targeting Advetisiment, Branding, Creating Creative (Writing, Photoshoots, Content Plan for Social Media)</description>
+    </item>
+    
+    <item>
+      <title>Hipster Ipsum</title>
+      <link>https://viktoriamartynko.github.io/blog/hipster-ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>https://viktoriamartynko.github.io/blog/hipster-ipsum/</guid>
+      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
+    </item>
+    
+    <item>
+      <title>Startup Ipsum</title>
+      <link>https://viktoriamartynko.github.io/blog/startup-ipsum/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>https://viktoriamartynko.github.io/blog/startup-ipsum/</guid>
+      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
+    </item>
+    
+    <item>
+      <title>Coffee Ipsum</title>
+      <link>https://viktoriamartynko.github.io/blog/coffee-ipsum/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>https://viktoriamartynko.github.io/blog/coffee-ipsum/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
+    </item>
+    
+    <item>
+      <title>Undated post</title>
+      <link>https://viktoriamartynko.github.io/blog/no-date/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viktoriamartynko.github.io/blog/no-date/</guid>
+      <description>I was born yesterday, tomorrow.</description>
+    </item>
+    
+  </channel>
+</rss>
